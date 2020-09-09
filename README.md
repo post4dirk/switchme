@@ -1,0 +1,2 @@
+# switchme
+Switch credential manager
